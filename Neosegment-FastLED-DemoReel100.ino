@@ -12,7 +12,7 @@ FASTLED_USING_NAMESPACE
 //
 // -Mark Kriegsman, December 2014
 
-// Modified for example use with Neosegment
+// Modified for example use with Neosegment RGB seven-segment LED displays by Jason Coon 
 
 #if defined(FASTLED_VERSION) && (FASTLED_VERSION < 3001000)
 #warning "Requires FastLED 3.1 or later; check github for latest code."
